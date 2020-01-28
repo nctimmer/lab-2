@@ -1,2 +1,2 @@
 # lab-2
-repository for lab 2, ITMD 361
+repository for Lab 2, ITMD 361
